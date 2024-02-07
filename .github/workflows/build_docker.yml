@@ -6,7 +6,6 @@ on:
     paths:
       - '**/images/**'
       - '**/js/**'
-      - home.html
       - index.html
 
 jobs:
