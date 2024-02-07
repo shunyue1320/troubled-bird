@@ -3,6 +3,11 @@ name: build_docker
 on:
   push:
     branches: [main]
+    paths:
+      - '**/images/**'
+      - '**/js/**'
+      - home.html
+      - index.html
 
 jobs:
   build_docker:
