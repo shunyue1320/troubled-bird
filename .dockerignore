@@ -1,0 +1,9 @@
+### macOS template
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Optional npm cache directory
+.npm
+.git
